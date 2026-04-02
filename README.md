@@ -309,9 +309,9 @@ python main.py
 
 > 💬 Есть вопрос, идея или нашли баг? Пишите!
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&style=for-the-badge)](https://github.com/yourusername)
-[![Telegram](https://img.shields.io/badge/Telegram-@username-2CA5E0?logo=telegram&style=for-the-badge)](https://t.me/username)
-[![Email](https://img.shields.io/badge/Email-Написать-D14836?logo=gmail&style=for-the-badge)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&style=for-the-badge)](https://github.com/Andrey3141)
+[![Telegram](https://img.shields.io/badge/Telegram-@tools271-2CA5E0?logo=telegram&style=for-the-badge)](https://t.me/tools271)
+[![Email](https://img.shields.io/badge/Email-Написать-D14836?logo=gmail&style=for-the-badge)](mailto:askackov08@gmail.com)
 
 </div>
 
