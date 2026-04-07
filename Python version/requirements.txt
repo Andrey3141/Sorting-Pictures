@@ -1,6 +1,0 @@
-PyQt6==6.5.0
-opencv-python==4.8.1.78
-tensorflow==2.13.0
-numpy==1.23.5
-mediapipe==0.10.7
-protobuf==3.20.3

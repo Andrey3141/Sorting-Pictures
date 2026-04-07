@@ -12,6 +12,7 @@ pip-delete-this-directory.txt
 sorted_photos/
 training_photos/
 faces.db
+Python_version/
 
 # IDE
 .idea/
